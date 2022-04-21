@@ -7,3 +7,33 @@
   font-size: 2em;
   text-align: center;
 }
+
+.default {
+  background-color: white;
+  color: #000;
+  border-color: grey;
+}
+
+.primary {
+  background-color: green;
+  color: white;
+  border-color: rgb(0, 97, 0);
+}
+
+.primaryOutline {
+  background-color: white;
+  color: green;
+  border-color: green;
+}
+
+.secondary {
+  background-color:blueviolet;
+  color: white;
+  border-color: rgb(77, 0, 150);
+}
+
+.secondaryOutline {
+  background-color: white;
+  color: blueviolet;
+  border-color: blueviolet;
+}
